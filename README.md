@@ -9,6 +9,12 @@
 - Multiple Solutions with Multiple Languages.
 - Anyone can create a pull request here to add his/her solution.
 
+## Rules 💡
+- Fork the Repo.
+- Your name in the top of the solution as a comment //Author: Mohamed Shaban
+- Space and Time Complexity of your solution in your code file as a comment.
+- Code file name matches this pattern: Reverse Integer - Mohamed Shaban.kt
+
 ## Contributing 🤝
 
 Contributions, issues and features requests are welcome!
