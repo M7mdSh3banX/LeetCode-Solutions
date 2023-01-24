@@ -4,4 +4,4 @@
   <h1 align="center">Reverse Integer Problem</h1>
 </p>
 
-<h3 align="center">Link of the problem: [Here](https://leetcode.com/problems/reverse-integer/) </h3>
+<h3 align="center">Link of the problem: https://leetcode.com/problems/reverse-integer/ </h3>
