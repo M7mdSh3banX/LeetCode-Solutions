@@ -22,5 +22,5 @@ class Solution {
         root.right = invertTree(temp)
         
         return root        
-    }
+    } 
 }
