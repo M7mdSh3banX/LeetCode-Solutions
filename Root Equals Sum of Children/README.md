@@ -4,4 +4,4 @@
   <h1 align="center">Root Equals Sum of Children Problem</h1>
 </p>
 
-<h3 align="center">Link of the problem: https://leetcode.com/problems/root-equals-sum-of-children/ </h3>
+<h3 align="center">Link of the problem: https://leetcode.com/problems/root-equals-sum-of-children/</h3>
