@@ -4,4 +4,4 @@
   <h1 align="center">Running Sum of 1d Array Problem</h1>
 </p>
 
-<h3 align="center">Link of the problem: https://leetcode.com/problems/running-sum-of-1d-array/ </h3>
+<h3 align="center">Link of the problem: https://leetcode.com/problems/running-sum-of-1d-array/</h3>

@@ -1,5 +1,5 @@
 //Author: Mohamed Shaban Ahmed
-//Time Complexity: O(n)
+//Time Complexity: O(n) 
 //Space Complexity: O(1)
 class Solution {
     fun runningSum(nums: IntArray): IntArray {
