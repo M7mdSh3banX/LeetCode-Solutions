@@ -4,4 +4,4 @@
   <h1 align="center">Invert Binary Tree Problem</h1>
 </p>
 
-<h3 align="center">Link of the problem: https://leetcode.com/problems/invert-binary-tree/ </h3>
+<h3 align="center">Link of the problem: https://leetcode.com/problems/invert-binary-tree/</h3>
