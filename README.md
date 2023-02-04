@@ -40,6 +40,3 @@ Be sure to drop a 🌟 if you like any solution!
 - Facebook: [Ashraf Emad Alagmawy](https://www.facebook.com/ashraf.emad.927)
 - Github: [ashrafemad097](https://github.com/ashrafemad097)
 - LeetCode: [ashraf_emad](https://leetcode.com/ashraf_emad/)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7mdSh3banX&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
